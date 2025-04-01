@@ -1,0 +1,251 @@
+id,title,year,rating
+1,Um Sonho de Liberdade,1994,9.3
+2,O Poderoso Chefão,1972,9.2
+3,Batman: O Cavaleiro das Trevas,2008,9.0
+4,O Poderoso Chefão: Parte II,1974,9.0
+5,12 Homens e uma Sentença,1957,9.0
+6,O Senhor dos Anéis: O Retorno do Rei,2003,9.0
+7,A Lista de Schindler,1993,9.0
+8,Pulp Fiction: Tempo de Violência,1994,8.9
+9,O Senhor dos Anéis: A Sociedade do Anel,2001,8.9
+10,Três Homens em Conflito,1966,8.8
+11,Forrest Gump: O Contador de Histórias,1994,8.8
+12,O Senhor dos Anéis: As Duas Torres,2002,8.8
+13,Clube da Luta,1999,8.8
+14,A Origem,2010,8.8
+15,Star Wars: Episódio V - O Império Contra-Ataca,1980,8.7
+16,Matrix,1999,8.7
+17,Os Bons Companheiros,1990,8.7
+18,Um Estranho no Ninho,1975,8.7
+19,Interestelar,2014,8.7
+20,Seven - Os Sete Crimes Capitais,1995,8.6
+21,A Felicidade Não se Compra,1946,8.6
+22,O Silêncio dos Inocentes,1991,8.6
+23,Os Sete Samurais,1954,8.6
+24,O Resgate do Soldado Ryan,1998,8.6
+25,Cidade de Deus,2002,8.6
+26,À Espera de um Milagre,1999,8.6
+27,A Vida é Bela,1997,8.6
+28,O Exterminador do Futuro 2: O Julgamento Final,1991,8.6
+29,Star Wars: Episódio IV - Uma Nova Esperança,1977,8.6
+30,De Volta para o Futuro,1985,8.5
+31,A Viagem de Chihiro,2001,8.6
+32,O Pianista,2002,8.5
+33,Gladiador,2000,8.5
+34,Parasita,2019,8.5
+35,Psicose,1960,8.5
+36,O Rei Leão,1994,8.5
+37,Túmulo dos Vagalumes,1988,8.5
+38,Os Infiltrados,2006,8.5
+39,Whiplash: Em Busca da Perfeição,2014,8.5
+40,Harakiri,1962,8.6
+41,A Outra História Americana,1998,8.5
+42,O Grande Truque,2006,8.5
+43,O Profissional,1994,8.5
+44,Homem-Aranha: Através do Aranhaverso,2023,8.5
+45,Casablanca,1942,8.5
+46,Os Suspeitos,1995,8.5
+47,Intocáveis,2011,8.5
+48,Cinema Paradiso,1988,8.5
+49,Tempos Modernos,1936,8.5
+50,Alien - O 8º Passageiro,1979,8.5
+51,Janela Indiscreta,1954,8.5
+52,Era uma Vez no Oeste,1968,8.5
+53,Django Livre,2012,8.5
+54,Luzes da Cidade,1931,8.5
+55,Apocalypse Now,1979,8.4
+56,Duna: Parte 2,2024,8.5
+57,Amnésia,2000,8.4
+58,WALL·E,2008,8.4
+59,Os Caçadores da Arca Perdida,1981,8.4
+60,A Vida dos Outros,2006,8.4
+61,Vingadores: Guerra Infinita,2018,8.4
+62,Crepúsculo dos Deuses,1950,8.4
+63,Homem-Aranha: No Aranhaverso,2018,8.4
+64,Glória Feita de Sangue,1957,8.4
+65,Testemunha de Acusação,1957,8.4
+66,O Iluminado,1980,8.4
+67,O Grande Ditador,1940,8.4
+68,Repetente,2023,8.8
+69,Aliens: O Resgate,1986,8.4
+70,Bastardos Inglórios,2009,8.4
+71,Batman: O Cavaleiro das Trevas Ressurge,2012,8.4
+72,Viva: A Vida é uma Festa,2017,8.4
+73,Amadeus,1984,8.4
+74,Toy Story,1995,8.3
+75,Vingadores: Ultimato,2019,8.4
+76,Gênio Indomável,1997,8.3
+77,Oldboy,2003,8.3
+78,Dr. Fantástico,1964,8.3
+79,Beleza Americana,1999,8.3
+80,O Barco: Inferno no Mar,1981,8.4
+81,Coração Valente,1995,8.3
+82,Princesa Mononoke,1997,8.3
+83,Seu Nome,2016,8.4
+84,Céu e Inferno,1963,8.4
+85,3 Idiotas,2009,8.4
+86,Coringa,2019,8.3
+87,Era uma Vez na América,1984,8.3
+88,Cafarnaum,2018,8.4
+89,Cantando na Chuva,1952,8.3
+90,Vá e Veja,1985,8.3
+91,Réquiem para um Sonho,2000,8.3
+92,Toy Story 3,2010,8.3
+93,Star Wars: Episódio VI - O Retorno de Jedi,1983,8.3
+94,A Caça,2012,8.3
+95,Viver,1952,8.3
+96,Brilho Eterno de uma Mente sem Lembranças,2004,8.3
+97,2001: Uma Odisséia no Espaço,1968,8.3
+98,Cães de Aluguel,1992,8.3
+99,Se Meu Apartamento Falasse,1960,8.3
+100,Incêndios,2010,8.3
+101,Lawrence da Arábia,1962,8.3
+102,Scarface,1983,8.3
+103,Pacto de Sangue,1944,8.3
+104,Intriga Internacional,1959,8.3
+105,Fogo Contra Fogo,1995,8.3
+106,Cidadão Kane,1941,8.3
+107,Up - Altas Aventuras,2009,8.3
+108,"M, o Vampiro de Dusseldorf",1931,8.3
+109,Nascido para Matar,1987,8.2
+110,Um Corpo que Cai,1958,8.3
+111,O Fabuloso Destino de Amélie Poulain,2001,8.3
+112,A Separação,2011,8.3
+113,Laranja Mecânica,1971,8.2
+114,O Sol é para Todos,1962,8.3
+115,Duro de Matar,1988,8.2
+116,Como Estrelas na Terra,2007,8.3
+117,Golpe de Mestre,1973,8.3
+118,Indiana Jones e a Última Cruzada,1989,8.2
+119,Oppenheimer,2023,8.3
+120,Metrópolis,1927,8.3
+121,Snatch - Porcos e Diamantes,2000,8.2
+122,1917,2019,8.2
+123,Los Angeles: Cidade Proibida,1997,8.2
+124,Ladrões de Bicicletas,1948,8.2
+125,A Queda! As Últimas Horas de Hitler,2004,8.2
+126,Dangal,2016,8.3
+127,Taxi Driver: Motorista de Táxi,1976,8.2
+128,Hamilton,2020,8.3
+129,O Lobo de Wall Street,2013,8.2
+130,Batman Begins,2005,8.2
+131,Green Book: O Guia,2018,8.2
+132,Por uns Dólares a Mais,1965,8.2
+133,Julgamento em Nuremberg,1961,8.3
+134,O Show de Truman: O Show da Vida,1998,8.2
+135,Quanto Mais Quente Melhor,1959,8.2
+136,Ilha do Medo,2010,8.2
+137,O Garoto,1921,8.2
+138,Meu Pai,2020,8.2
+139,A Malvada,1950,8.2
+140,Sangue Negro,2007,8.2
+141,Jurassic Park: O Parque dos Dinossauros,1993,8.2
+142,Cassino,1995,8.2
+143,O Sexto Sentido,1999,8.2
+144,Ran,1985,8.2
+145,Top Gun: Maverick,2022,8.2
+146,Onde os Fracos Não Têm Vez,2007,8.2
+147,O Enigma de Outro Mundo,1982,8.2
+148,O Labirinto do Fauno,2006,8.2
+149,Os Imperdoáveis,1992,8.2
+150,Uma Mente Brilhante,2001,8.2
+151,Kill Bill: Volume 1,2003,8.2
+152,O Tesouro da Sierra Madre,1948,8.2
+153,Os Suspeitos,2013,8.2
+154,"Yojimbo, o Guarda-Costas",1961,8.2
+155,Procurando Nemo,2003,8.2
+156,Fugindo do Inferno,1963,8.2
+157,O Castelo Animado,2004,8.2
+158,Monty Python em Busca do Cálice Sagrado,1975,8.2
+159,O Homem Elefante,1980,8.2
+160,Disque M para Matar,1954,8.2
+161,...E o Vento Levou,1939,8.2
+162,Rashomon,1950,8.2
+163,Klaus,2019,8.2
+164,Chinatown,1974,8.1
+165,O Segredo dos Seus Olhos,2009,8.2
+166,"Jogos, Trapaças e Dois Canos Fumegantes",1998,8.1
+167,V de Vingança,2005,8.1
+168,Divertida Mente,2015,8.1
+169,Três Anúncios para um Crime,2017,8.1
+170,Robô Selvagem,2024,8.2
+171,A Ponte do Rio Kwai,1957,8.1
+172,Trainspotting: Sem Limites,1996,8.1
+173,Prenda-Me se for Capaz,2002,8.1
+174,Touro Indomável,1980,8.1
+175,Fargo: Uma Comédia de Erros,1996,8.1
+176,Guerreiro,2011,8.1
+177,Harry Potter e as Relíquias da Morte - Parte 2,2011,8.1
+178,Gran Torino,2008,8.1
+179,Menina de Ouro,2004,8.1
+180,Meu Amigo Totoro,1988,8.1
+181,Mad Max: Estrada da Fúria,2015,8.1
+182,Homem-Aranha: Sem Volta para Casa,2021,8.2
+183,Ben-Hur,1959,8.1
+184,Filhos do Paraíso,1997,8.2
+185,Barry Lyndon,1975,8.1
+186,Ainda Estou Aqui,2024,8.3
+187,12 Anos de Escravidão,2013,8.1
+188,Sociedade dos Poetas Mortos,1989,8.1
+189,Antes do Amanhecer,1995,8.1
+190,O Grande Hotel Budapeste,2014,8.1
+191,Blade Runner: O Caçador de Andróides,1982,8.1
+192,Até o Último Homem,2016,8.1
+193,Garota Exemplar,2014,8.1
+194,Memórias de um Assassino,2003,8.1
+195,Em Nome do Pai,1993,8.1
+196,Monstros S.A.,2001,8.1
+197,Ratatouille,2007,8.1
+198,Em Busca do Ouro,1925,8.1
+199,Relatos Selvagens,2014,8.1
+200,Como Treinar o Seu Dragão,2010,8.1
+201,Bancando o Águia,1924,8.2
+202,Tubarão,1975,8.1
+203,Mary e Max - Uma Amizade Diferente,2009,8.1
+204,O Franco Atirador,1978,8.1
+205,A General,1926,8.1
+206,Ford vs. Ferrari,2019,8.1
+207,O Salário do Medo,1953,8.1
+208,Sindicato de Ladrões,1954,8.1
+209,A Mulher Faz o Homem,1939,8.1
+210,Morangos Silvestres,1957,8.1
+211,Logan,2017,8.1
+212,"Rocky, um Lutador",1976,8.1
+213,O 3º Homem,1949,8.1
+214,Era uma Vez em Tóquio,1953,8.1
+215,O Mistério da Lixeira,2024,8.4
+216,O Grande Lebowski,1998,8.1
+217,Spotlight: Segredos Revelados,2015,8.1
+218,O Exterminador do Futuro,1984,8.1
+219,O Sétimo Selo,1957,8.1
+220,O Quarto de Jack,2015,8.1
+221,Piratas do Caribe: A Maldição do Pérola Negra,2003,8.1
+222,O Ódio,1995,8.1
+223,Hotel Ruanda,2004,8.1
+224,Jai Bhim,2021,8.7
+225,Platoon,1986,8.1
+226,Os Melhores Anos de Nossa Vida,1946,8.1
+227,Antes do Pôr do Sol,2004,8.1
+228,O Exorcista,1973,8.1
+229,O Martírio de Joana D'Arc,1928,8.1
+230,O Mágico de Oz,1939,8.1
+231,Os Incríveis,2004,8.0
+232,A Noviça Rebelde,1965,8.1
+233,Rush: No Limite da Emoção,2013,8.1
+234,Sempre ao Seu Lado,2009,8.1
+235,Conta Comigo,1986,8.1
+236,Rede de Intrigas,1976,8.1
+237,Meu Pai e Meu Filho,2005,8.2
+238,A Criada,2016,8.1
+239,O Gigante de Ferro,1999,8.1
+240,Ser ou Não Ser,1942,8.1
+241,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,8.5
+242,A Batalha de Argel,1966,8.1
+243,Na Natureza Selvagem,2007,8.1
+244,As Vinhas da Ira,1940,8.1
+245,A Voz do Silêncio,2016,8.1
+246,Feitiço do Tempo,1993,8.0
+247,Histórias Cruzadas,2011,8.1
+248,Amores Brutos,2000,8.0
+249,"Rebecca, a Mulher Inesquecível",1940,8.1
+250,A Chantagem,2015,8.2

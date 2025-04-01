@@ -1,0 +1,1502 @@
+[
+    {
+        "id":1,
+        "title":"Um Sonho de Liberdade",
+        "year":1994,
+        "rating":9.3
+    },
+    {
+        "id":2,
+        "title":"O Poderoso Chefão",
+        "year":1972,
+        "rating":9.2
+    },
+    {
+        "id":3,
+        "title":"Batman: O Cavaleiro das Trevas",
+        "year":2008,
+        "rating":9.0
+    },
+    {
+        "id":4,
+        "title":"O Poderoso Chefão: Parte II",
+        "year":1974,
+        "rating":9.0
+    },
+    {
+        "id":5,
+        "title":"12 Homens e uma Sentença",
+        "year":1957,
+        "rating":9.0
+    },
+    {
+        "id":6,
+        "title":"O Senhor dos Anéis: O Retorno do Rei",
+        "year":2003,
+        "rating":9.0
+    },
+    {
+        "id":7,
+        "title":"A Lista de Schindler",
+        "year":1993,
+        "rating":9.0
+    },
+    {
+        "id":8,
+        "title":"Pulp Fiction: Tempo de Violência",
+        "year":1994,
+        "rating":8.9
+    },
+    {
+        "id":9,
+        "title":"O Senhor dos Anéis: A Sociedade do Anel",
+        "year":2001,
+        "rating":8.9
+    },
+    {
+        "id":10,
+        "title":"Três Homens em Conflito",
+        "year":1966,
+        "rating":8.8
+    },
+    {
+        "id":11,
+        "title":"Forrest Gump: O Contador de Histórias",
+        "year":1994,
+        "rating":8.8
+    },
+    {
+        "id":12,
+        "title":"O Senhor dos Anéis: As Duas Torres",
+        "year":2002,
+        "rating":8.8
+    },
+    {
+        "id":13,
+        "title":"Clube da Luta",
+        "year":1999,
+        "rating":8.8
+    },
+    {
+        "id":14,
+        "title":"A Origem",
+        "year":2010,
+        "rating":8.8
+    },
+    {
+        "id":15,
+        "title":"Star Wars: Episódio V - O Império Contra-Ataca",
+        "year":1980,
+        "rating":8.7
+    },
+    {
+        "id":16,
+        "title":"Matrix",
+        "year":1999,
+        "rating":8.7
+    },
+    {
+        "id":17,
+        "title":"Os Bons Companheiros",
+        "year":1990,
+        "rating":8.7
+    },
+    {
+        "id":18,
+        "title":"Um Estranho no Ninho",
+        "year":1975,
+        "rating":8.7
+    },
+    {
+        "id":19,
+        "title":"Interestelar",
+        "year":2014,
+        "rating":8.7
+    },
+    {
+        "id":20,
+        "title":"Seven - Os Sete Crimes Capitais",
+        "year":1995,
+        "rating":8.6
+    },
+    {
+        "id":21,
+        "title":"A Felicidade Não se Compra",
+        "year":1946,
+        "rating":8.6
+    },
+    {
+        "id":22,
+        "title":"O Silêncio dos Inocentes",
+        "year":1991,
+        "rating":8.6
+    },
+    {
+        "id":23,
+        "title":"Os Sete Samurais",
+        "year":1954,
+        "rating":8.6
+    },
+    {
+        "id":24,
+        "title":"O Resgate do Soldado Ryan",
+        "year":1998,
+        "rating":8.6
+    },
+    {
+        "id":25,
+        "title":"Cidade de Deus",
+        "year":2002,
+        "rating":8.6
+    },
+    {
+        "id":26,
+        "title":"À Espera de um Milagre",
+        "year":1999,
+        "rating":8.6
+    },
+    {
+        "id":27,
+        "title":"A Vida é Bela",
+        "year":1997,
+        "rating":8.6
+    },
+    {
+        "id":28,
+        "title":"O Exterminador do Futuro 2: O Julgamento Final",
+        "year":1991,
+        "rating":8.6
+    },
+    {
+        "id":29,
+        "title":"Star Wars: Episódio IV - Uma Nova Esperança",
+        "year":1977,
+        "rating":8.6
+    },
+    {
+        "id":30,
+        "title":"De Volta para o Futuro",
+        "year":1985,
+        "rating":8.5
+    },
+    {
+        "id":31,
+        "title":"A Viagem de Chihiro",
+        "year":2001,
+        "rating":8.6
+    },
+    {
+        "id":32,
+        "title":"O Pianista",
+        "year":2002,
+        "rating":8.5
+    },
+    {
+        "id":33,
+        "title":"Gladiador",
+        "year":2000,
+        "rating":8.5
+    },
+    {
+        "id":34,
+        "title":"Parasita",
+        "year":2019,
+        "rating":8.5
+    },
+    {
+        "id":35,
+        "title":"Psicose",
+        "year":1960,
+        "rating":8.5
+    },
+    {
+        "id":36,
+        "title":"O Rei Leão",
+        "year":1994,
+        "rating":8.5
+    },
+    {
+        "id":37,
+        "title":"Túmulo dos Vagalumes",
+        "year":1988,
+        "rating":8.5
+    },
+    {
+        "id":38,
+        "title":"Os Infiltrados",
+        "year":2006,
+        "rating":8.5
+    },
+    {
+        "id":39,
+        "title":"Whiplash: Em Busca da Perfeição",
+        "year":2014,
+        "rating":8.5
+    },
+    {
+        "id":40,
+        "title":"Harakiri",
+        "year":1962,
+        "rating":8.6
+    },
+    {
+        "id":41,
+        "title":"A Outra História Americana",
+        "year":1998,
+        "rating":8.5
+    },
+    {
+        "id":42,
+        "title":"O Grande Truque",
+        "year":2006,
+        "rating":8.5
+    },
+    {
+        "id":43,
+        "title":"O Profissional",
+        "year":1994,
+        "rating":8.5
+    },
+    {
+        "id":44,
+        "title":"Homem-Aranha: Através do Aranhaverso",
+        "year":2023,
+        "rating":8.5
+    },
+    {
+        "id":45,
+        "title":"Casablanca",
+        "year":1942,
+        "rating":8.5
+    },
+    {
+        "id":46,
+        "title":"Os Suspeitos",
+        "year":1995,
+        "rating":8.5
+    },
+    {
+        "id":47,
+        "title":"Intocáveis",
+        "year":2011,
+        "rating":8.5
+    },
+    {
+        "id":48,
+        "title":"Cinema Paradiso",
+        "year":1988,
+        "rating":8.5
+    },
+    {
+        "id":49,
+        "title":"Tempos Modernos",
+        "year":1936,
+        "rating":8.5
+    },
+    {
+        "id":50,
+        "title":"Alien - O 8º Passageiro",
+        "year":1979,
+        "rating":8.5
+    },
+    {
+        "id":51,
+        "title":"Janela Indiscreta",
+        "year":1954,
+        "rating":8.5
+    },
+    {
+        "id":52,
+        "title":"Era uma Vez no Oeste",
+        "year":1968,
+        "rating":8.5
+    },
+    {
+        "id":53,
+        "title":"Django Livre",
+        "year":2012,
+        "rating":8.5
+    },
+    {
+        "id":54,
+        "title":"Luzes da Cidade",
+        "year":1931,
+        "rating":8.5
+    },
+    {
+        "id":55,
+        "title":"Apocalypse Now",
+        "year":1979,
+        "rating":8.4
+    },
+    {
+        "id":56,
+        "title":"Duna: Parte 2",
+        "year":2024,
+        "rating":8.5
+    },
+    {
+        "id":57,
+        "title":"Amnésia",
+        "year":2000,
+        "rating":8.4
+    },
+    {
+        "id":58,
+        "title":"WALL·E",
+        "year":2008,
+        "rating":8.4
+    },
+    {
+        "id":59,
+        "title":"Os Caçadores da Arca Perdida",
+        "year":1981,
+        "rating":8.4
+    },
+    {
+        "id":60,
+        "title":"A Vida dos Outros",
+        "year":2006,
+        "rating":8.4
+    },
+    {
+        "id":61,
+        "title":"Vingadores: Guerra Infinita",
+        "year":2018,
+        "rating":8.4
+    },
+    {
+        "id":62,
+        "title":"Crepúsculo dos Deuses",
+        "year":1950,
+        "rating":8.4
+    },
+    {
+        "id":63,
+        "title":"Homem-Aranha: No Aranhaverso",
+        "year":2018,
+        "rating":8.4
+    },
+    {
+        "id":64,
+        "title":"Glória Feita de Sangue",
+        "year":1957,
+        "rating":8.4
+    },
+    {
+        "id":65,
+        "title":"Testemunha de Acusação",
+        "year":1957,
+        "rating":8.4
+    },
+    {
+        "id":66,
+        "title":"O Iluminado",
+        "year":1980,
+        "rating":8.4
+    },
+    {
+        "id":67,
+        "title":"O Grande Ditador",
+        "year":1940,
+        "rating":8.4
+    },
+    {
+        "id":68,
+        "title":"Repetente",
+        "year":2023,
+        "rating":8.8
+    },
+    {
+        "id":69,
+        "title":"Aliens: O Resgate",
+        "year":1986,
+        "rating":8.4
+    },
+    {
+        "id":70,
+        "title":"Bastardos Inglórios",
+        "year":2009,
+        "rating":8.4
+    },
+    {
+        "id":71,
+        "title":"Batman: O Cavaleiro das Trevas Ressurge",
+        "year":2012,
+        "rating":8.4
+    },
+    {
+        "id":72,
+        "title":"Viva: A Vida é uma Festa",
+        "year":2017,
+        "rating":8.4
+    },
+    {
+        "id":73,
+        "title":"Amadeus",
+        "year":1984,
+        "rating":8.4
+    },
+    {
+        "id":74,
+        "title":"Toy Story",
+        "year":1995,
+        "rating":8.3
+    },
+    {
+        "id":75,
+        "title":"Vingadores: Ultimato",
+        "year":2019,
+        "rating":8.4
+    },
+    {
+        "id":76,
+        "title":"Gênio Indomável",
+        "year":1997,
+        "rating":8.3
+    },
+    {
+        "id":77,
+        "title":"Oldboy",
+        "year":2003,
+        "rating":8.3
+    },
+    {
+        "id":78,
+        "title":"Dr. Fantástico",
+        "year":1964,
+        "rating":8.3
+    },
+    {
+        "id":79,
+        "title":"Beleza Americana",
+        "year":1999,
+        "rating":8.3
+    },
+    {
+        "id":80,
+        "title":"O Barco: Inferno no Mar",
+        "year":1981,
+        "rating":8.4
+    },
+    {
+        "id":81,
+        "title":"Coração Valente",
+        "year":1995,
+        "rating":8.3
+    },
+    {
+        "id":82,
+        "title":"Princesa Mononoke",
+        "year":1997,
+        "rating":8.3
+    },
+    {
+        "id":83,
+        "title":"Seu Nome",
+        "year":2016,
+        "rating":8.4
+    },
+    {
+        "id":84,
+        "title":"Céu e Inferno",
+        "year":1963,
+        "rating":8.4
+    },
+    {
+        "id":85,
+        "title":"3 Idiotas",
+        "year":2009,
+        "rating":8.4
+    },
+    {
+        "id":86,
+        "title":"Coringa",
+        "year":2019,
+        "rating":8.3
+    },
+    {
+        "id":87,
+        "title":"Era uma Vez na América",
+        "year":1984,
+        "rating":8.3
+    },
+    {
+        "id":88,
+        "title":"Cafarnaum",
+        "year":2018,
+        "rating":8.4
+    },
+    {
+        "id":89,
+        "title":"Cantando na Chuva",
+        "year":1952,
+        "rating":8.3
+    },
+    {
+        "id":90,
+        "title":"Vá e Veja",
+        "year":1985,
+        "rating":8.3
+    },
+    {
+        "id":91,
+        "title":"Réquiem para um Sonho",
+        "year":2000,
+        "rating":8.3
+    },
+    {
+        "id":92,
+        "title":"Toy Story 3",
+        "year":2010,
+        "rating":8.3
+    },
+    {
+        "id":93,
+        "title":"Star Wars: Episódio VI - O Retorno de Jedi",
+        "year":1983,
+        "rating":8.3
+    },
+    {
+        "id":94,
+        "title":"A Caça",
+        "year":2012,
+        "rating":8.3
+    },
+    {
+        "id":95,
+        "title":"Viver",
+        "year":1952,
+        "rating":8.3
+    },
+    {
+        "id":96,
+        "title":"Brilho Eterno de uma Mente sem Lembranças",
+        "year":2004,
+        "rating":8.3
+    },
+    {
+        "id":97,
+        "title":"2001: Uma Odisséia no Espaço",
+        "year":1968,
+        "rating":8.3
+    },
+    {
+        "id":98,
+        "title":"Cães de Aluguel",
+        "year":1992,
+        "rating":8.3
+    },
+    {
+        "id":99,
+        "title":"Se Meu Apartamento Falasse",
+        "year":1960,
+        "rating":8.3
+    },
+    {
+        "id":100,
+        "title":"Incêndios",
+        "year":2010,
+        "rating":8.3
+    },
+    {
+        "id":101,
+        "title":"Lawrence da Arábia",
+        "year":1962,
+        "rating":8.3
+    },
+    {
+        "id":102,
+        "title":"Scarface",
+        "year":1983,
+        "rating":8.3
+    },
+    {
+        "id":103,
+        "title":"Pacto de Sangue",
+        "year":1944,
+        "rating":8.3
+    },
+    {
+        "id":104,
+        "title":"Intriga Internacional",
+        "year":1959,
+        "rating":8.3
+    },
+    {
+        "id":105,
+        "title":"Fogo Contra Fogo",
+        "year":1995,
+        "rating":8.3
+    },
+    {
+        "id":106,
+        "title":"Cidadão Kane",
+        "year":1941,
+        "rating":8.3
+    },
+    {
+        "id":107,
+        "title":"Up - Altas Aventuras",
+        "year":2009,
+        "rating":8.3
+    },
+    {
+        "id":108,
+        "title":"M, o Vampiro de Dusseldorf",
+        "year":1931,
+        "rating":8.3
+    },
+    {
+        "id":109,
+        "title":"Nascido para Matar",
+        "year":1987,
+        "rating":8.2
+    },
+    {
+        "id":110,
+        "title":"Um Corpo que Cai",
+        "year":1958,
+        "rating":8.3
+    },
+    {
+        "id":111,
+        "title":"O Fabuloso Destino de Amélie Poulain",
+        "year":2001,
+        "rating":8.3
+    },
+    {
+        "id":112,
+        "title":"A Separação",
+        "year":2011,
+        "rating":8.3
+    },
+    {
+        "id":113,
+        "title":"Laranja Mecânica",
+        "year":1971,
+        "rating":8.2
+    },
+    {
+        "id":114,
+        "title":"O Sol é para Todos",
+        "year":1962,
+        "rating":8.3
+    },
+    {
+        "id":115,
+        "title":"Duro de Matar",
+        "year":1988,
+        "rating":8.2
+    },
+    {
+        "id":116,
+        "title":"Como Estrelas na Terra",
+        "year":2007,
+        "rating":8.3
+    },
+    {
+        "id":117,
+        "title":"Golpe de Mestre",
+        "year":1973,
+        "rating":8.3
+    },
+    {
+        "id":118,
+        "title":"Indiana Jones e a Última Cruzada",
+        "year":1989,
+        "rating":8.2
+    },
+    {
+        "id":119,
+        "title":"Oppenheimer",
+        "year":2023,
+        "rating":8.3
+    },
+    {
+        "id":120,
+        "title":"Metrópolis",
+        "year":1927,
+        "rating":8.3
+    },
+    {
+        "id":121,
+        "title":"Snatch - Porcos e Diamantes",
+        "year":2000,
+        "rating":8.2
+    },
+    {
+        "id":122,
+        "title":"1917",
+        "year":2019,
+        "rating":8.2
+    },
+    {
+        "id":123,
+        "title":"Los Angeles: Cidade Proibida",
+        "year":1997,
+        "rating":8.2
+    },
+    {
+        "id":124,
+        "title":"Ladrões de Bicicletas",
+        "year":1948,
+        "rating":8.2
+    },
+    {
+        "id":125,
+        "title":"A Queda! As Últimas Horas de Hitler",
+        "year":2004,
+        "rating":8.2
+    },
+    {
+        "id":126,
+        "title":"Dangal",
+        "year":2016,
+        "rating":8.3
+    },
+    {
+        "id":127,
+        "title":"Taxi Driver: Motorista de Táxi",
+        "year":1976,
+        "rating":8.2
+    },
+    {
+        "id":128,
+        "title":"Hamilton",
+        "year":2020,
+        "rating":8.3
+    },
+    {
+        "id":129,
+        "title":"O Lobo de Wall Street",
+        "year":2013,
+        "rating":8.2
+    },
+    {
+        "id":130,
+        "title":"Batman Begins",
+        "year":2005,
+        "rating":8.2
+    },
+    {
+        "id":131,
+        "title":"Green Book: O Guia",
+        "year":2018,
+        "rating":8.2
+    },
+    {
+        "id":132,
+        "title":"Por uns Dólares a Mais",
+        "year":1965,
+        "rating":8.2
+    },
+    {
+        "id":133,
+        "title":"Julgamento em Nuremberg",
+        "year":1961,
+        "rating":8.3
+    },
+    {
+        "id":134,
+        "title":"O Show de Truman: O Show da Vida",
+        "year":1998,
+        "rating":8.2
+    },
+    {
+        "id":135,
+        "title":"Quanto Mais Quente Melhor",
+        "year":1959,
+        "rating":8.2
+    },
+    {
+        "id":136,
+        "title":"Ilha do Medo",
+        "year":2010,
+        "rating":8.2
+    },
+    {
+        "id":137,
+        "title":"O Garoto",
+        "year":1921,
+        "rating":8.2
+    },
+    {
+        "id":138,
+        "title":"Meu Pai",
+        "year":2020,
+        "rating":8.2
+    },
+    {
+        "id":139,
+        "title":"A Malvada",
+        "year":1950,
+        "rating":8.2
+    },
+    {
+        "id":140,
+        "title":"Sangue Negro",
+        "year":2007,
+        "rating":8.2
+    },
+    {
+        "id":141,
+        "title":"Jurassic Park: O Parque dos Dinossauros",
+        "year":1993,
+        "rating":8.2
+    },
+    {
+        "id":142,
+        "title":"Cassino",
+        "year":1995,
+        "rating":8.2
+    },
+    {
+        "id":143,
+        "title":"O Sexto Sentido",
+        "year":1999,
+        "rating":8.2
+    },
+    {
+        "id":144,
+        "title":"Ran",
+        "year":1985,
+        "rating":8.2
+    },
+    {
+        "id":145,
+        "title":"Top Gun: Maverick",
+        "year":2022,
+        "rating":8.2
+    },
+    {
+        "id":146,
+        "title":"Onde os Fracos Não Têm Vez",
+        "year":2007,
+        "rating":8.2
+    },
+    {
+        "id":147,
+        "title":"O Enigma de Outro Mundo",
+        "year":1982,
+        "rating":8.2
+    },
+    {
+        "id":148,
+        "title":"O Labirinto do Fauno",
+        "year":2006,
+        "rating":8.2
+    },
+    {
+        "id":149,
+        "title":"Os Imperdoáveis",
+        "year":1992,
+        "rating":8.2
+    },
+    {
+        "id":150,
+        "title":"Uma Mente Brilhante",
+        "year":2001,
+        "rating":8.2
+    },
+    {
+        "id":151,
+        "title":"Kill Bill: Volume 1",
+        "year":2003,
+        "rating":8.2
+    },
+    {
+        "id":152,
+        "title":"O Tesouro da Sierra Madre",
+        "year":1948,
+        "rating":8.2
+    },
+    {
+        "id":153,
+        "title":"Os Suspeitos",
+        "year":2013,
+        "rating":8.2
+    },
+    {
+        "id":154,
+        "title":"Yojimbo, o Guarda-Costas",
+        "year":1961,
+        "rating":8.2
+    },
+    {
+        "id":155,
+        "title":"Procurando Nemo",
+        "year":2003,
+        "rating":8.2
+    },
+    {
+        "id":156,
+        "title":"Fugindo do Inferno",
+        "year":1963,
+        "rating":8.2
+    },
+    {
+        "id":157,
+        "title":"O Castelo Animado",
+        "year":2004,
+        "rating":8.2
+    },
+    {
+        "id":158,
+        "title":"Monty Python em Busca do Cálice Sagrado",
+        "year":1975,
+        "rating":8.2
+    },
+    {
+        "id":159,
+        "title":"O Homem Elefante",
+        "year":1980,
+        "rating":8.2
+    },
+    {
+        "id":160,
+        "title":"Disque M para Matar",
+        "year":1954,
+        "rating":8.2
+    },
+    {
+        "id":161,
+        "title":"...E o Vento Levou",
+        "year":1939,
+        "rating":8.2
+    },
+    {
+        "id":162,
+        "title":"Rashomon",
+        "year":1950,
+        "rating":8.2
+    },
+    {
+        "id":163,
+        "title":"Klaus",
+        "year":2019,
+        "rating":8.2
+    },
+    {
+        "id":164,
+        "title":"Chinatown",
+        "year":1974,
+        "rating":8.1
+    },
+    {
+        "id":165,
+        "title":"O Segredo dos Seus Olhos",
+        "year":2009,
+        "rating":8.2
+    },
+    {
+        "id":166,
+        "title":"Jogos, Trapaças e Dois Canos Fumegantes",
+        "year":1998,
+        "rating":8.1
+    },
+    {
+        "id":167,
+        "title":"V de Vingança",
+        "year":2005,
+        "rating":8.1
+    },
+    {
+        "id":168,
+        "title":"Divertida Mente",
+        "year":2015,
+        "rating":8.1
+    },
+    {
+        "id":169,
+        "title":"Três Anúncios para um Crime",
+        "year":2017,
+        "rating":8.1
+    },
+    {
+        "id":170,
+        "title":"Robô Selvagem",
+        "year":2024,
+        "rating":8.2
+    },
+    {
+        "id":171,
+        "title":"A Ponte do Rio Kwai",
+        "year":1957,
+        "rating":8.1
+    },
+    {
+        "id":172,
+        "title":"Trainspotting: Sem Limites",
+        "year":1996,
+        "rating":8.1
+    },
+    {
+        "id":173,
+        "title":"Prenda-Me se for Capaz",
+        "year":2002,
+        "rating":8.1
+    },
+    {
+        "id":174,
+        "title":"Touro Indomável",
+        "year":1980,
+        "rating":8.1
+    },
+    {
+        "id":175,
+        "title":"Fargo: Uma Comédia de Erros",
+        "year":1996,
+        "rating":8.1
+    },
+    {
+        "id":176,
+        "title":"Guerreiro",
+        "year":2011,
+        "rating":8.1
+    },
+    {
+        "id":177,
+        "title":"Harry Potter e as Relíquias da Morte - Parte 2",
+        "year":2011,
+        "rating":8.1
+    },
+    {
+        "id":178,
+        "title":"Gran Torino",
+        "year":2008,
+        "rating":8.1
+    },
+    {
+        "id":179,
+        "title":"Menina de Ouro",
+        "year":2004,
+        "rating":8.1
+    },
+    {
+        "id":180,
+        "title":"Meu Amigo Totoro",
+        "year":1988,
+        "rating":8.1
+    },
+    {
+        "id":181,
+        "title":"Mad Max: Estrada da Fúria",
+        "year":2015,
+        "rating":8.1
+    },
+    {
+        "id":182,
+        "title":"Homem-Aranha: Sem Volta para Casa",
+        "year":2021,
+        "rating":8.2
+    },
+    {
+        "id":183,
+        "title":"Ben-Hur",
+        "year":1959,
+        "rating":8.1
+    },
+    {
+        "id":184,
+        "title":"Filhos do Paraíso",
+        "year":1997,
+        "rating":8.2
+    },
+    {
+        "id":185,
+        "title":"Barry Lyndon",
+        "year":1975,
+        "rating":8.1
+    },
+    {
+        "id":186,
+        "title":"Ainda Estou Aqui",
+        "year":2024,
+        "rating":8.3
+    },
+    {
+        "id":187,
+        "title":"12 Anos de Escravidão",
+        "year":2013,
+        "rating":8.1
+    },
+    {
+        "id":188,
+        "title":"Sociedade dos Poetas Mortos",
+        "year":1989,
+        "rating":8.1
+    },
+    {
+        "id":189,
+        "title":"Antes do Amanhecer",
+        "year":1995,
+        "rating":8.1
+    },
+    {
+        "id":190,
+        "title":"O Grande Hotel Budapeste",
+        "year":2014,
+        "rating":8.1
+    },
+    {
+        "id":191,
+        "title":"Blade Runner: O Caçador de Andróides",
+        "year":1982,
+        "rating":8.1
+    },
+    {
+        "id":192,
+        "title":"Até o Último Homem",
+        "year":2016,
+        "rating":8.1
+    },
+    {
+        "id":193,
+        "title":"Garota Exemplar",
+        "year":2014,
+        "rating":8.1
+    },
+    {
+        "id":194,
+        "title":"Memórias de um Assassino",
+        "year":2003,
+        "rating":8.1
+    },
+    {
+        "id":195,
+        "title":"Em Nome do Pai",
+        "year":1993,
+        "rating":8.1
+    },
+    {
+        "id":196,
+        "title":"Monstros S.A.",
+        "year":2001,
+        "rating":8.1
+    },
+    {
+        "id":197,
+        "title":"Ratatouille",
+        "year":2007,
+        "rating":8.1
+    },
+    {
+        "id":198,
+        "title":"Em Busca do Ouro",
+        "year":1925,
+        "rating":8.1
+    },
+    {
+        "id":199,
+        "title":"Relatos Selvagens",
+        "year":2014,
+        "rating":8.1
+    },
+    {
+        "id":200,
+        "title":"Como Treinar o Seu Dragão",
+        "year":2010,
+        "rating":8.1
+    },
+    {
+        "id":201,
+        "title":"Bancando o Águia",
+        "year":1924,
+        "rating":8.2
+    },
+    {
+        "id":202,
+        "title":"Tubarão",
+        "year":1975,
+        "rating":8.1
+    },
+    {
+        "id":203,
+        "title":"Mary e Max - Uma Amizade Diferente",
+        "year":2009,
+        "rating":8.1
+    },
+    {
+        "id":204,
+        "title":"O Franco Atirador",
+        "year":1978,
+        "rating":8.1
+    },
+    {
+        "id":205,
+        "title":"A General",
+        "year":1926,
+        "rating":8.1
+    },
+    {
+        "id":206,
+        "title":"Ford vs. Ferrari",
+        "year":2019,
+        "rating":8.1
+    },
+    {
+        "id":207,
+        "title":"O Salário do Medo",
+        "year":1953,
+        "rating":8.1
+    },
+    {
+        "id":208,
+        "title":"Sindicato de Ladrões",
+        "year":1954,
+        "rating":8.1
+    },
+    {
+        "id":209,
+        "title":"A Mulher Faz o Homem",
+        "year":1939,
+        "rating":8.1
+    },
+    {
+        "id":210,
+        "title":"Morangos Silvestres",
+        "year":1957,
+        "rating":8.1
+    },
+    {
+        "id":211,
+        "title":"Logan",
+        "year":2017,
+        "rating":8.1
+    },
+    {
+        "id":212,
+        "title":"Rocky, um Lutador",
+        "year":1976,
+        "rating":8.1
+    },
+    {
+        "id":213,
+        "title":"O 3º Homem",
+        "year":1949,
+        "rating":8.1
+    },
+    {
+        "id":214,
+        "title":"Era uma Vez em Tóquio",
+        "year":1953,
+        "rating":8.1
+    },
+    {
+        "id":215,
+        "title":"O Mistério da Lixeira",
+        "year":2024,
+        "rating":8.4
+    },
+    {
+        "id":216,
+        "title":"O Grande Lebowski",
+        "year":1998,
+        "rating":8.1
+    },
+    {
+        "id":217,
+        "title":"Spotlight: Segredos Revelados",
+        "year":2015,
+        "rating":8.1
+    },
+    {
+        "id":218,
+        "title":"O Exterminador do Futuro",
+        "year":1984,
+        "rating":8.1
+    },
+    {
+        "id":219,
+        "title":"O Sétimo Selo",
+        "year":1957,
+        "rating":8.1
+    },
+    {
+        "id":220,
+        "title":"O Quarto de Jack",
+        "year":2015,
+        "rating":8.1
+    },
+    {
+        "id":221,
+        "title":"Piratas do Caribe: A Maldição do Pérola Negra",
+        "year":2003,
+        "rating":8.1
+    },
+    {
+        "id":222,
+        "title":"O Ódio",
+        "year":1995,
+        "rating":8.1
+    },
+    {
+        "id":223,
+        "title":"Hotel Ruanda",
+        "year":2004,
+        "rating":8.1
+    },
+    {
+        "id":224,
+        "title":"Jai Bhim",
+        "year":2021,
+        "rating":8.7
+    },
+    {
+        "id":225,
+        "title":"Platoon",
+        "year":1986,
+        "rating":8.1
+    },
+    {
+        "id":226,
+        "title":"Os Melhores Anos de Nossa Vida",
+        "year":1946,
+        "rating":8.1
+    },
+    {
+        "id":227,
+        "title":"Antes do Pôr do Sol",
+        "year":2004,
+        "rating":8.1
+    },
+    {
+        "id":228,
+        "title":"O Exorcista",
+        "year":1973,
+        "rating":8.1
+    },
+    {
+        "id":229,
+        "title":"O Martírio de Joana D'Arc",
+        "year":1928,
+        "rating":8.1
+    },
+    {
+        "id":230,
+        "title":"O Mágico de Oz",
+        "year":1939,
+        "rating":8.1
+    },
+    {
+        "id":231,
+        "title":"Os Incríveis",
+        "year":2004,
+        "rating":8.0
+    },
+    {
+        "id":232,
+        "title":"A Noviça Rebelde",
+        "year":1965,
+        "rating":8.1
+    },
+    {
+        "id":233,
+        "title":"Rush: No Limite da Emoção",
+        "year":2013,
+        "rating":8.1
+    },
+    {
+        "id":234,
+        "title":"Sempre ao Seu Lado",
+        "year":2009,
+        "rating":8.1
+    },
+    {
+        "id":235,
+        "title":"Conta Comigo",
+        "year":1986,
+        "rating":8.1
+    },
+    {
+        "id":236,
+        "title":"Rede de Intrigas",
+        "year":1976,
+        "rating":8.1
+    },
+    {
+        "id":237,
+        "title":"Meu Pai e Meu Filho",
+        "year":2005,
+        "rating":8.2
+    },
+    {
+        "id":238,
+        "title":"A Criada",
+        "year":2016,
+        "rating":8.1
+    },
+    {
+        "id":239,
+        "title":"O Gigante de Ferro",
+        "year":1999,
+        "rating":8.1
+    },
+    {
+        "id":240,
+        "title":"Ser ou Não Ser",
+        "year":1942,
+        "rating":8.1
+    },
+    {
+        "id":241,
+        "title":"Kimetsu no Yaiba: Tsuzumi Yashiki-hen",
+        "year":2021,
+        "rating":8.5
+    },
+    {
+        "id":242,
+        "title":"A Batalha de Argel",
+        "year":1966,
+        "rating":8.1
+    },
+    {
+        "id":243,
+        "title":"Na Natureza Selvagem",
+        "year":2007,
+        "rating":8.1
+    },
+    {
+        "id":244,
+        "title":"As Vinhas da Ira",
+        "year":1940,
+        "rating":8.1
+    },
+    {
+        "id":245,
+        "title":"A Voz do Silêncio",
+        "year":2016,
+        "rating":8.1
+    },
+    {
+        "id":246,
+        "title":"Feitiço do Tempo",
+        "year":1993,
+        "rating":8.0
+    },
+    {
+        "id":247,
+        "title":"Histórias Cruzadas",
+        "year":2011,
+        "rating":8.1
+    },
+    {
+        "id":248,
+        "title":"Amores Brutos",
+        "year":2000,
+        "rating":8.0
+    },
+    {
+        "id":249,
+        "title":"Rebecca, a Mulher Inesquecível",
+        "year":1940,
+        "rating":8.1
+    },
+    {
+        "id":250,
+        "title":"A Chantagem",
+        "year":2015,
+        "rating":8.2
+    }
+]
